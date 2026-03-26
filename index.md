@@ -1,47 +1,142 @@
 # Política de Privacidad de ExamAI
 
-Fecha de entrada en vigor: 10 de marzo de 2026
-
-Esta aplicación ("Exams") respeta tu privacidad. Esta política explica cómo recopilamos, usamos y protegemos tu información.
-
-## 1. Información que recopilamos
-- Correo electrónico (para registro y autenticación)
-- Datos de uso de la app (de forma anónima)
-- Documentos y exámenes que subas o generes
-
-## 2. Uso de la información
-- Proveer y mejorar el servicio
-- Enviar notificaciones importantes (por ejemplo, verificación de email)
-- Cumplir con requisitos legales
-
-## 3. Compartir información
-- No vendemos ni compartimos tu información con terceros, salvo proveedores de servicios estrictamente necesarios (por ejemplo, servicios de email, almacenamiento en la nube).
-
-## 4. Seguridad
-- Usamos medidas técnicas y organizativas para proteger tus datos.
-
-## 5. Tus derechos
-- Puedes solicitar acceso, corrección o eliminación de tus datos escribiendo a soporte@examai.app
-
-## 6. Cambios
-- Notificaremos cualquier cambio importante en esta política dentro de la app o por email.
-
-## 7. Contacto
-- cvilla.tk@gmail.com
-
-## 8. Publicidad y anuncios
-
-Nuestra app utiliza servicios de terceros para mostrar anuncios (Google AdMob). Estos servicios pueden recopilar información, como identificadores de dispositivo, ubicación aproximada, intereses y datos de uso, para mostrar anuncios personalizados o no personalizados.
-
-Puedes consultar la política de privacidad de Google AdMob aquí:  
-https://policies.google.com/privacy
-
-Puedes gestionar tus preferencias de anuncios personalizados desde la configuración de tu dispositivo o siguiendo las instrucciones proporcionadas por el proveedor de anuncios.
-
-No compartimos información personal directamente con los anunciantes.
-
-## 9. Menores de edad
-
-Esta app no está dirigida a menores de 13 años. Si tienes conocimiento de que un menor nos ha proporcionado datos personales, contáctanos para eliminarlos.
+**Fecha de entrada en vigor:** 10 de marzo de 2026  
 
 ---
+
+## 1. Responsable del tratamiento
+
+El responsable del tratamiento de los datos es:  
+
+**César Villa**  
+Email: cvilla.tk@gmail.com  
+
+---
+
+## 2. Información que recopilamos
+
+Recopilamos los siguientes datos:
+
+- Correo electrónico (registro y autenticación)  
+- Datos de uso de la aplicación (de forma anónima)  
+- Documentos y contenidos que el usuario suba (para generar exámenes)  
+- Identificadores de dispositivo (por ejemplo, ID de publicidad)  
+
+---
+
+## 3. Finalidad del tratamiento
+
+Utilizamos los datos para:
+
+- Proporcionar y mejorar el servicio  
+- Generar exámenes a partir del contenido del usuario  
+- Gestionar la autenticación y verificación de cuentas  
+- Mostrar publicidad  
+- Cumplir obligaciones legales  
+
+---
+
+## 4. Base legal
+
+Tratamos los datos conforme a:
+
+- Ejecución del servicio solicitado por el usuario  
+- Consentimiento del usuario (publicidad y comunicaciones)  
+- Cumplimiento de obligaciones legales  
+
+---
+
+## 5. Conservación de datos
+
+Los datos se conservarán:
+
+- Mientras el usuario mantenga su cuenta  
+- O hasta que solicite su eliminación  
+
+---
+
+## 6. Compartición de datos
+
+Podemos compartir datos con proveedores necesarios para el funcionamiento del servicio, como:
+
+- Servicios de almacenamiento en la nube  
+- Proveedores de email  
+- Plataformas de publicidad  
+
+No vendemos datos personales.
+
+---
+
+## 7. Transferencias internacionales
+
+Algunos proveedores pueden estar fuera del Espacio Económico Europeo.  
+En estos casos, se aplican garantías adecuadas conforme al RGPD.
+
+---
+
+## 8. Publicidad
+
+Utilizamos Google AdMob para mostrar anuncios.
+
+AdMob puede recopilar:
+
+- Identificadores de dispositivo  
+- Datos de uso  
+- Ubicación aproximada  
+
+Más información:  
+https://policies.google.com/privacy  
+
+---
+
+## 9. Tratamiento de contenido del usuario
+
+Los documentos subidos por el usuario:
+
+- Se utilizan exclusivamente para generar exámenes  
+- No se utilizan para entrenar modelos de inteligencia artificial  
+- No se comparten con terceros salvo para el funcionamiento técnico del servicio  
+
+---
+
+## 10. Seguridad
+
+Aplicamos medidas de seguridad adecuadas, incluyendo:
+
+- Cifrado de datos  
+- Control de acceso  
+- Protección frente a accesos no autorizados  
+
+---
+
+## 11. Derechos del usuario
+
+El usuario puede ejercer los siguientes derechos:
+
+- Acceso  
+- Rectificación  
+- Supresión  
+- Oposición  
+- Limitación del tratamiento  
+- Portabilidad de datos  
+- Retirada del consentimiento  
+
+Contacto: cvilla.tk@gmail.com  
+
+---
+
+## 12. Menores de edad
+
+La aplicación no está dirigida a menores de 16 años.  
+
+---
+
+## 13. Cambios en la política
+
+Se notificará cualquier cambio relevante dentro de la app o por email.
+
+---
+
+## 14. Contacto
+
+Email: cvilla.tk@gmail.com  
