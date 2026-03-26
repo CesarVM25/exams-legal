@@ -1,4 +1,4 @@
-# Política de Privacidad de ExamAI
+# Política de Privacidad de Exams
 
 **Fecha de entrada en vigor:** 10 de marzo de 2026  
 
