@@ -9,7 +9,7 @@
 El responsable del tratamiento de los datos es:  
 
 **César Villa**  
-Email: cvilla.tk@gmail.com  
+Email: villalabs.app@gmail.com  
 
 ---
 
@@ -121,7 +121,7 @@ El usuario puede ejercer los siguientes derechos:
 - Portabilidad de datos  
 - Retirada del consentimiento  
 
-Contacto: cvilla.tk@gmail.com  
+Contacto: villalabs.app@gmail.com  
 
 ---
 
@@ -139,4 +139,4 @@ Se notificará cualquier cambio relevante dentro de la app o por email.
 
 ## 14. Contacto
 
-Email: cvilla.tk@gmail.com  
+Email: villalabs.app@gmail.com  
