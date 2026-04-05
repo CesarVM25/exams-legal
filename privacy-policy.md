@@ -1,142 +1,148 @@
-# Política de Privacidad de Exams
+# Privacy Policy of Exams
 
-**Fecha de entrada en vigor:** 10 de marzo de 2026  
+**Effective Date:** March 10, 2026  
 
 ---
 
-## 1. Responsable del tratamiento
+## 1. Data Controller
 
-El responsable del tratamiento de los datos es:  
+The data controller is:  
 
 **César Villa**  
 Email: villalabs.app@gmail.com  
 
 ---
 
-## 2. Información que recopilamos
+## 2. Information We Collect
 
-Recopilamos los siguientes datos:
+We collect the following data:
 
-- Correo electrónico (registro y autenticación)  
-- Datos de uso de la aplicación (de forma anónima)  
-- Documentos y contenidos que el usuario suba (para generar exámenes)  
-- Identificadores de dispositivo (por ejemplo, ID de publicidad)  
-
----
-
-## 3. Finalidad del tratamiento
-
-Utilizamos los datos para:
-
-- Proporcionar y mejorar el servicio  
-- Generar exámenes a partir del contenido del usuario  
-- Gestionar la autenticación y verificación de cuentas  
-- Mostrar publicidad  
-- Cumplir obligaciones legales  
+- Email address (registration and authentication)  
+- Application usage data (anonymously)  
+- Documents and content uploaded by the user (to generate exams)  
+- Device identifiers (e.g., advertising ID)  
 
 ---
 
-## 4. Base legal
+## 3. Purpose of Processing
 
-Tratamos los datos conforme a:
+We use the data to:
 
-- Ejecución del servicio solicitado por el usuario  
-- Consentimiento del usuario (publicidad y comunicaciones)  
-- Cumplimiento de obligaciones legales  
-
----
-
-## 5. Conservación de datos
-
-Los datos se conservarán:
-
-- Mientras el usuario mantenga su cuenta  
-- O hasta que solicite su eliminación  
+- Provide and improve the service  
+- Generate exams from user content  
+- Manage authentication and account verification  
+- Display advertisements  
+- Comply with legal obligations  
 
 ---
 
-## 6. Compartición de datos
+## 4. Legal Basis
 
-Podemos compartir datos con proveedores necesarios para el funcionamiento del servicio, como:
+We process data in accordance with:
 
-- Servicios de almacenamiento en la nube  
-- Proveedores de email  
-- Plataformas de publicidad  
-
-No vendemos datos personales.
+- Performance of the service requested by the user  
+- User consent (advertising and communications)  
+- Compliance with legal obligations  
 
 ---
 
-## 7. Transferencias internacionales
+## 5. Data Retention
 
-Algunos proveedores pueden estar fuera del Espacio Económico Europeo.  
-En estos casos, se aplican garantías adecuadas conforme al RGPD.
+Data will be retained:
+
+- While the user maintains their account  
+- Or until deletion is requested  
 
 ---
 
-## 8. Publicidad
+## 6. Data Sharing
 
-Utilizamos Google AdMob para mostrar anuncios.
+We may share data with providers necessary for the operation of the service, such as:
 
-AdMob puede recopilar:
+- Cloud storage services  
+- Email providers  
+- Advertising platforms  
 
-- Identificadores de dispositivo  
-- Datos de uso  
-- Ubicación aproximada  
+We do not sell personal data.
 
-Más información:  
+---
+
+## 7. International Transfers
+
+Some providers may be located outside the European Economic Area.  
+In such cases, appropriate safeguards are applied in accordance with the GDPR.
+
+---
+
+## 8. Advertising
+
+We use Google AdMob to display advertisements.
+
+AdMob may collect:
+
+- Device identifiers  
+- Usage data  
+- Approximate location  
+
+More information:  
 https://policies.google.com/privacy  
 
 ---
 
-## 9. Tratamiento de contenido del usuario
+## 9. User Content Processing
 
-Los documentos subidos por el usuario:
+Documents uploaded by the user:
 
-- Se utilizan exclusivamente para generar exámenes  
-- No se utilizan para entrenar modelos de inteligencia artificial  
-- No se comparten con terceros salvo para el funcionamiento técnico del servicio  
-
----
-
-## 10. Seguridad
-
-Aplicamos medidas de seguridad adecuadas, incluyendo:
-
-- Cifrado de datos  
-- Control de acceso  
-- Protección frente a accesos no autorizados  
+- Are used exclusively to generate exams  
+- Are not used to train artificial intelligence models  
+- Are not shared with third parties except as necessary for the technical operation of the service  
 
 ---
 
-## 11. Derechos del usuario
+## 10. Security
 
-El usuario puede ejercer los siguientes derechos:
+We apply appropriate security measures, including:
 
-- Acceso  
-- Rectificación  
-- Supresión  
-- Oposición  
-- Limitación del tratamiento  
-- Portabilidad de datos  
-- Retirada del consentimiento  
-
-Contacto: villalabs.app@gmail.com  
+- Data encryption  
+- Access control  
+- Protection against unauthorized access  
 
 ---
 
-## 12. Menores de edad
+## 11. User Rights
 
-La aplicación no está dirigida a menores de 16 años.  
+Users may exercise the following rights:
+
+- Access  
+- Rectification  
+- Erasure  
+- Objection  
+- Restriction of processing  
+- Data portability  
+- Withdrawal of consent  
+
+Contact: villalabs.app@gmail.com  
 
 ---
 
-## 13. Cambios en la política
+## 12. Minors
 
-Se notificará cualquier cambio relevante dentro de la app o por email.
+The application is not intended for individuals under 16 years of age.  
 
 ---
 
-## 14. Contacto
+## 13. Changes to This Policy
+
+Any relevant changes will be notified within the app or via email.  
+
+---
+
+## 14. Contact
 
 Email: villalabs.app@gmail.com  
+
+---
+
+## 15. Language
+
+In case of any discrepancy between translations of this Privacy Policy, the English version shall prevail.
