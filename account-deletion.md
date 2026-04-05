@@ -9,7 +9,7 @@
 Puedes solicitar la eliminación de tu cuenta de Exams en cualquier momento mediante:
 
 - Desde la aplicación (opción "Eliminar cuenta" en ajustes)  
-- Enviando un email a: **cvilla.tk@gmail.com**  
+- Enviando un email a: **villalabs.app@gmail.com**  
 
 ---
 
