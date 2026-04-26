@@ -146,3 +146,13 @@ Email: villalabs.app@gmail.com
 ## 15. Language
 
 In case of any discrepancy between translations of this Privacy Policy, the English version shall prevail.
+
+---
+
+## 16. Cookies and Tracking
+
+Exams does not use cookies or similar tracking technologies for advertising or cross-app tracking purposes on Apple devices.
+
+Any associated web pages may use only strictly necessary technical cookies required for basic functionality. These cookies do not track users, do not collect personal data for advertising, and are not shared with third parties for tracking purposes.
+
+We do not use analytics, advertising pixels, or third-party tracking technologies in our app or associated web content.
